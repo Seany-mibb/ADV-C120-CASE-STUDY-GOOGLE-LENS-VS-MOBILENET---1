@@ -1,0 +1,19 @@
+body{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.copy_right_footer{
+  background-color: rgb(220, 134, 102);
+  position:fixed;
+  bottom:0;
+  width:100%;
+  color:white;
+  text-align: center;
+  line-height:1.5;
+  font-size:20px;
+}
+
+#div{
+  border-radius: 20px;
+  margin-bottom: 20px;
+}
